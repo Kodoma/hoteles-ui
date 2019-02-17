@@ -1,11 +1,3 @@
-# Hotel UI
-
-Ejemplo básico de una UI de Hoteles.
-
-## ¿Cómo levantar la aplicación?
-
-### En un entorno local:
-
 #### Requisitos:
 
 - Node
